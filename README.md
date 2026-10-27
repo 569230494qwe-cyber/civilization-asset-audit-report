@@ -15,6 +15,8 @@
 
 发行规则：每一语种，每十万使用人口，限发一册纸质版。电子版免费流通。
 
+补丁机制：正典原文不改，一切修订以补丁档案存放于 `补丁与答辩/` 目录，只加不减。
+
 ## English
 
 This repository holds the complete texts of the **Five Treasures**, in reading order:
@@ -26,6 +28,8 @@ This repository holds the complete texts of the **Five Treasures**, in reading o
 5. **The Sutra** — *The Beggar in the Dream, the Emperor Asleep · To Know*: to observe is to become a beggar; to prove is to enter hell. Essence precedes existence.
 
 Issuance rule: for each language, one printed copy per hundred thousand speakers. The electronic edition circulates free of charge.
+
+Patch mechanism: the canonical texts are never edited in place; every revision is filed as an add-only patch under `补丁与答辩/`.
 
 ## License / 许可
 
