@@ -16,10 +16,6 @@ With the sharpest scalpel, the beggar dissected "hell is other people," proving 
 
 The beggar kept mistaking costumed performers in dragon robes for the true Emperor; and the harder he tried, the cleverer he became, the more honest he was — the more he looked like a perfect madman.
 
-And the true Emperor never once appeared.
-
-The true Emperor is only a cloud of probabilities: one is all, all is one. The quantum probability cloud is my single thought; therefore I am the whole probability cloud in superposition.
-
 The true Emperor never needed to observe himself to prove he was the Emperor — he simply was. Every beggar-performance is nothing but a legion of beggar-phantoms, forcibly collapsed out of a probability cloud by a false Emperor's violent observation. The probability-cloud self observes the beggar-forms already collapsed (the past), observes the beggar-forms collapsing now (the present), observes the superpositions about to collapse (the future). Seizing and piling up every beggar-form, it assembles a vast beggar army to prove the false Emperor's will to power — and the vaster, harder-working, more magnificent this army grows, the more exquisite the false Emperor's palace becomes, and the more unbreakable the true beggar's slavery. The quantum cloud collapses into beggars; therefore I am the collapsed totality of all true beggars. By one thought of ignorance, the true Emperor falls, lifetime after lifetime, into a true slave, a true beggar, impressed by the false Emperor into eternal recurrence.
 
 To observe is to become a beggar. To prove is to enter hell.
@@ -59,9 +55,3 @@ Clouds drift, just so.
 I sleep, just so —
 
 tears fall, just so.
-
----
-
-Feng 12 (锋十二)
-
-October 3, 2026
