@@ -360,7 +360,7 @@ Yoshida Shōin read "unity of knowing and acting" and read out only the "acting.
 
 In 1970, Mishima Yukio wrote a book whose title is *Yōmeigaku as Revolutionary Philosophy*. The year he finished writing it, he committed seppuku. The Japanese-style redemption of the unity of knowing and acting — the item redeemed was his own life.
 
-Yasuoka Masahiro, scholar of the Wang school, advisor to the Konoe cabinet, was listed after the war as a Class-A war-crime suspect.
+Yasuoka Masaatsu, scholar of the Wang school, advisor to the Konoe cabinet and the Ministry of Greater East Asia, was purged from public office after the war (ban lifted 1952).
 
 The mechanism is not complicated: the standard of innate knowing lies in each person's heart, so anyone can inject capital into it — including the military. If innate knowing deems the Greater East Asia Co-Prosperity Sphere good, then massacre is doing good. This is not irony; it is the standard operating procedure of the Full-Position Bank's yen branch.
 
